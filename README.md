@@ -6,7 +6,7 @@
 Dribbble :https://dribbble.com/mohimenulmitul
 linkedin :https://www.linkedin.com/in/mohimenulmitul/
 twitter  : https://twitter.com/mitul_mohimenul
-medium   : medium.com/@mohimenulmitul
+medium   : https://mohimenulmitul.medium.com/
 behance  :https://www.behance.net/mohimenulmitul/
 Gmail    : mitulmohimenul@gmail.com 
 skype    : mitulmohimenul@gmail.com
