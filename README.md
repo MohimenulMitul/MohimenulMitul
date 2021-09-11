@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 Dribbble : https://dribbble.com/mohimenulmitul
 linkedin : https://www.linkedin.com/in/mohimenulmitul/
-twitter  : https://twitter.com/mitul_mohimenul
+twitter  : https://twitter.com/mohimenulmitul_
 medium   : https://mohimenulmitul.medium.com/
 behance  : https://www.behance.net/mohimenulmitul/
 Gmail    : mitulmohimenul@gmail.com 
